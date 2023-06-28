@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/BlogWebsite-01/static/css/main.1f2214f0.css",
+    "main.js": "/BlogWebsite-01/static/js/main.432e2f6a.js",
+    "static/js/842.85596e4b.chunk.js": "/BlogWebsite-01/static/js/842.85596e4b.chunk.js",
+    "static/js/787.37d2db2c.chunk.js": "/BlogWebsite-01/static/js/787.37d2db2c.chunk.js",
+    "static/media/default.jpg": "/BlogWebsite-01/static/media/default.0cb14b6d658474aac906.jpg",
+    "static/media/2.jpg": "/BlogWebsite-01/static/media/2.900b6c517883b0f124b7.jpg",
+    "static/media/1.jpg": "/BlogWebsite-01/static/media/1.0ccca64adad82bd2a54a.jpg",
+    "static/media/wait.gif": "/BlogWebsite-01/static/media/wait.b2a8fa3d8baba9fc720f.gif",
+    "static/media/lightMode.png": "/BlogWebsite-01/static/media/lightMode.c821cfcfdaaf307e5003.png",
+    "static/media/darkMode.png": "/BlogWebsite-01/static/media/darkMode.0d0d05ee0fd261136765.png",
+    "static/media/showPass.png": "/BlogWebsite-01/static/media/showPass.50f42e26de032bf28682.png",
+    "static/media/search.svg": "/BlogWebsite-01/static/media/search.8bf35fe73bd8212adb214dde7f631a0c.svg",
+    "static/media/feed.svg": "/BlogWebsite-01/static/media/feed.7d5a9fcc7ac79216e5654dbf9d21b104.svg",
+    "static/media/facebook2.svg": "/BlogWebsite-01/static/media/facebook2.fca3faa1623515220b481733afc5a186.svg",
+    "static/media/twitter.svg": "/BlogWebsite-01/static/media/twitter.e6d2d1f48cbe8bfea636a0b7f4cbf703.svg",
+    "index.html": "/BlogWebsite-01/index.html",
+    "static/media/facebook.svg": "/BlogWebsite-01/static/media/facebook.522cc265a1d665585208bcedd469e15a.svg",
+    "static/media/youtube.svg": "/BlogWebsite-01/static/media/youtube.44d7361eb642a1196b84521bfed2cef9.svg",
+    "static/media/mail.svg": "/BlogWebsite-01/static/media/mail.3ef39f79ac85f684e1dc90be41c7a429.svg",
+    "main.1f2214f0.css.map": "/BlogWebsite-01/static/css/main.1f2214f0.css.map",
+    "main.432e2f6a.js.map": "/BlogWebsite-01/static/js/main.432e2f6a.js.map",
+    "787.37d2db2c.chunk.js.map": "/BlogWebsite-01/static/js/787.37d2db2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2214f0.css",
+    "static/js/main.432e2f6a.js"
+  ]
+}
